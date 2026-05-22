@@ -1,0 +1,6 @@
+{
+  "name": "Pro Tool Hub WordPress Plugin Studio",
+  "description": "An interactive files workspace, code inspector, download hub, and live admin/frontend simulator for the Pro Tool Hub WordPress Plugin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

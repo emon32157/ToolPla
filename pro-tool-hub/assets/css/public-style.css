@@ -1,0 +1,52 @@
+/* Public styles for tools sandbox display wrapper */
+
+.pro-tool-hub-container {
+    width: 100%;
+    margin: 1.5rem 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, sans-serif;
+}
+
+.pro-tool-hub-container * {
+    box-sizing: border-box;
+}
+
+/* Main single tool layout wrapper details */
+.pth-single-tool-article {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+
+.pth-tool-header {
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #e5e7eb;
+    padding-bottom: 1.5rem;
+}
+
+.pth-main-title {
+    font-size: 2.25rem;
+    font-weight: 800;
+    color: #111827;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+}
+
+.pth-subtitle p {
+    font-size: 1.125rem;
+    color: #4b5563;
+    margin: 0;
+}
+
+.pth-footer {
+    margin-top: 3rem;
+    border-top: 1px solid #e5e7eb;
+    padding-top: 1.5rem;
+}
+
+.pth-branding-credit {
+    font-size: 0.825rem;
+    color: #9ca3af;
+    text-align: center;
+    letter-spacing: 0.025em;
+}
